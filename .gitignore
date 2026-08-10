@@ -8,3 +8,5 @@ dist/
 *.egg
 .venv*/
 eval/
+config.bat
+node_modules
